@@ -1,0 +1,1 @@
+[app] title = DecryptTool package.name = decrypttool package.domain = org.example source.include_exts = py requirements = python3,kivy orientation = portrait android.permissions = INTERNET 
